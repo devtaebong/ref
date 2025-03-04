@@ -7,3 +7,8 @@ https://docs.oracle.com/en/java/javase/21/troubleshoot/general-java-troubleshoot
 ### jcmd
 https://docs.oracle.com/en/java/javase/17/docs/specs/man/jcmd.html  
 JVM의 각종 정보를 받아오기 위한 도구 
+
+# DB
+
+### MySQL Locking  
+https://dev.mysql.com/doc/refman/8.0/en/innodb-locking.html
