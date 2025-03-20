@@ -17,3 +17,9 @@ https://docs.spring.io/spring-framework/reference/languages/kotlin/coroutines.ht
 
 ### MySQL Locking  
 https://dev.mysql.com/doc/refman/8.0/en/innodb-locking.html
+
+# ORM
+
+### Java EE Persistence
+
+https://docs.oracle.com/javaee/6/tutorial/doc/bnbpz.html
